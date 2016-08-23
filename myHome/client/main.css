@@ -1,1 +1,22 @@
 /* CSS declarations go here */
+body{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	height: 80px;
+	background-color: #03A9F4;
+	border-bottom: 2px solid ##FF4081;
+	line-height: 80px;
+	text-align: center;
+}
+
+footer{
+	height: 70px;
+	background-color: #03A9F4;
+	text-align: center;
+	line-height: 70px;
+	display: flex;
+	margin-bottom: 0;
+}
